@@ -1,0 +1,28 @@
+PROFILE IMAGE SETUP INSTRUCTIONS
+================================
+
+To add your profile photo to the portfolio:
+
+1. Save your profile photo as "profile.jpg" in the same folder as index.html
+   (The folder: C:\Users\L E N O V O\OneDrive\Desktop\New folder)
+
+2. Recommended image specifications:
+   - File format: JPG, PNG, or WebP
+   - Size: 400x400 pixels (square) for best results
+   - File name: profile.jpg (exactly as shown)
+
+3. The image will automatically be displayed in the hero section with:
+   - Circular border
+   - Rotating border animation
+   - Floating tech icons around it
+
+4. If your image is not square, it will be automatically cropped to fit
+   (centered crop)
+
+5. If the image doesn't appear, make sure:
+   - The file name is exactly "profile.jpg" (case-sensitive on some systems)
+   - The file is in the same folder as index.html
+   - The file is not corrupted
+
+Note: The portfolio is already set up to use your name "Asmita Pokharel" throughout the website.
+
